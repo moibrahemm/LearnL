@@ -33,7 +33,7 @@ $ cd Ricky-And-Morty-App/
 
 
 ## Screens
--   Characters Screen
+-   Home Screen
 -   Characters Detiles Screen
 ## Dependencies
 - [x] [flutter_bloc]
