@@ -1,10 +1,9 @@
-## Ricky and Morty<br>
+## LearnL<br>
 
-Ricky and Morty app is open-source  app for Android & IOS. It is built with Dart on Google's Flutter Framework.
+LearnL app is open-source  app for Android & IOS. It is built with Dart on Google's Flutter Framework.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
@@ -39,7 +38,6 @@ $ cd Ricky-And-Morty-App/
 - [x] [flutter_bloc]
 - [x] [dio]
 - [x] [flutter_offline]
-- [x] [animated_text_kit]
 ## Screens
 |1|2|
 |------|-------|
